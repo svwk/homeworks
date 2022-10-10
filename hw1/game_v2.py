@@ -19,7 +19,7 @@ def random_predict(number: int = 1) -> int:
     min_number = 1
 
     while True:
-        if max_number == number | min_number == number:
+        if max_number == number or min_number == number:
             return count
 
         count += 1
