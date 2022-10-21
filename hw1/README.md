@@ -1,5 +1,7 @@
 # Проект 0. Угадай число
 
+[Проект 1. Домашняя работа №1 Python Pro](https://github.com/svwk/homeworks/tree/master/hw1_1)
+
 ## Оглавление
 
 [1. Описание проекта](.README.md#Описание-проекта)  
