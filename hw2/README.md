@@ -4,4 +4,4 @@
 
 ## Домашняя работа №2 Python Pro
 
-[Запустить](https://drive.google.com/file/d/1piM087kJz6H3Xy0ICZXd2w25BoFwwbcy/view?usp=sharing)
+[Запустить](https://colab.research.google.com/drive/1r6XqqjwcYTCqisC9-2RPqwGhWIOEtWVO?usp=share_link)
